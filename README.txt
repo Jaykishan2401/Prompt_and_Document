@@ -1,3 +1,5 @@
+The project will be run from CodeGenerator.py file
+
 To run the project, following requisites are required:
 1. python-docx
 2. pandas
